@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: admin-server
+  security: # 配置登录用户名和密码
+    user:
+      name: wzf
+      password: 123456
+server:
+  port: 9301
+#结合eureka注册中心时添加
+#eureka:
+#  client:
+#    register-with-eureka: true
+#    fetch-registry: true
+#    service-url:
+#      defaultZone: http://localhost:8001/eureka/
