@@ -1,8 +1,8 @@
 package com.wzf.cloud.controller;
 
+import com.wzf.cloud.service.UserService;
 import com.wzf.cloud.domain.CommonResult;
 import com.wzf.cloud.domain.User;
-import com.wzf.cloud.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -29,4 +29,4 @@ logging:
 #      enabled: false #是否对响应进行GZIP压缩
 #logging:
 #  level: #修改日志级别
-#    com.macro.cloud.service.UserService: debug
+#    com.wzf.cloud.service.UserService: debug

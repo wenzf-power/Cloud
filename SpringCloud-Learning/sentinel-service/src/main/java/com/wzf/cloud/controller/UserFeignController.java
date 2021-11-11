@@ -1,15 +1,18 @@
 package com.wzf.cloud.controller;
 
+import com.wzf.cloud.service.UserService;
 import com.wzf.cloud.domain.CommonResult;
 import com.wzf.cloud.domain.User;
-import com.wzf.cloud.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.*;
 
 
 @RestController
 @RequestMapping("/user")
 public class UserFeignController {
+
+    @Qualifier("nacos-user-service")
     @Autowired
     private UserService userService;
 

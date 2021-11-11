@@ -7,8 +7,8 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/macrozheng/springcloud-config.git
-          username: macro
+          uri: https://gitee.com/xxx/springcloud-config.git
+          username: wzf
           password: 123456
           clone-on-start: true # 开启启动时直接从git获取配置
   rabbitmq: #rabbitmq相关配置

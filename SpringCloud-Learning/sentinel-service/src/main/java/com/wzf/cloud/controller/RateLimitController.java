@@ -2,8 +2,8 @@ package com.wzf.cloud.controller;
 
 import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import com.alibaba.csp.sentinel.slots.block.BlockException;
-import com.wzf.cloud.domain.CommonResult;
 import com.wzf.cloud.handler.CustomBlockHandler;
+import com.wzf.cloud.domain.CommonResult;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

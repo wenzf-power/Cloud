@@ -1,8 +1,8 @@
 package com.wzf.cloud.service;
 
+import com.wzf.cloud.service.impl.UserFallbackService;
 import com.wzf.cloud.domain.CommonResult;
 import com.wzf.cloud.domain.User;
-import com.wzf.cloud.service.impl.UserFallbackService;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.*;
 
