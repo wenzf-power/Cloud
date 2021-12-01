@@ -1,4 +1,4 @@
-package Thread.ThreadDemo;
+package main.java.Thread.ThreadDemo;
 
 /**
  * @Author: wenzf
