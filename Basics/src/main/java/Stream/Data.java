@@ -1,4 +1,4 @@
-package Stream;
+package main.java.Stream;
 
 public class Data {
     private  String name;

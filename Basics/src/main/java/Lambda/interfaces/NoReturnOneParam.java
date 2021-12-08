@@ -1,4 +1,4 @@
-package Lambda.interfaces;
+package main.java.Lambda.interfaces;
 
 @FunctionalInterface
 public interface NoReturnOneParam {

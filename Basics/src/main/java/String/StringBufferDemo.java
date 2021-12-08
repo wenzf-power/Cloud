@@ -1,4 +1,4 @@
-package String;
+package main.java.String;
 
 /**
  * StringBuffer的简单使用

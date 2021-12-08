@@ -1,4 +1,4 @@
-package String;
+package main.java.String;
 
 import java.io.File;
 

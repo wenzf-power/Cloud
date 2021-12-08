@@ -1,4 +1,4 @@
-package Other;
+package main.java.Other;
 
 /**
  * @Author: wenzf

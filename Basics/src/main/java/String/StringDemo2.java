@@ -1,4 +1,4 @@
-package String;
+package main.java.String;
 
 /**
  * String的简单运用
