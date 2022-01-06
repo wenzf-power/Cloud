@@ -1,4 +1,4 @@
-package Lambda.LambdaDemo;
+package main.java.Lambda.LambdaDemo;
 //Lambda表达式创建线程
 public class LamDemo3 {
     public static void main(String[] args) {

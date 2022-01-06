@@ -1,5 +1,7 @@
-package Lambda.LambdaDemo;
-import Lambda.interfaces.*;
+package main.java.Lambda.LambdaDemo;
+
+import main.java.Lambda.interfaces.*;
+
 public class LamDemo2 {
     public static void main(String[] args) {
         //1.简化参数类型，可以不写参数类型，但是必须所有参数都不写

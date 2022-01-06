@@ -1,5 +1,7 @@
-package Lambda.LambdaDemo;
-import Lambda.interfaces.*;
+package main.java.Lambda.LambdaDemo;
+
+
+import main.java.Lambda.interfaces.*;
 
 public class LamDemo1 {
     public static void main(String[] args) {
