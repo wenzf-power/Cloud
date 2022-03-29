@@ -1,0 +1,7 @@
+# 配置 User 对象的值
+demo:
+ user:
+  name: hello
+  age: 22
+  desc: world!
+
