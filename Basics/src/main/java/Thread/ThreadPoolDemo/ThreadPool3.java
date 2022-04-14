@@ -1,4 +1,4 @@
-package Thread.ThreadPoolDemo;
+package main.java.Thread.ThreadPoolDemo;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -19,7 +19,7 @@ public class ThreadPool3 {
                 public void run() {
                     try {
                         System.out.println(index);
-//                        Thread.sleep(1000);
+                        Thread.sleep(1000);
                     } catch (Exception e) {
                         e.printStackTrace();
                     }
